@@ -1,5 +1,4 @@
-{
-  "elements": [
+[
     {
       "name": "Hydrogen",
       "appearance": "colorless gas",
@@ -5074,5 +5073,4 @@
       "ionization_energies": [],
       "cpk_hex": null
     }
-  ]
-}
+]
